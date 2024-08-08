@@ -33,26 +33,4 @@ function Nav() {
 export default Nav;
 
 
-// // vv
-
-
-
-// import React from 'react'
-
-// const Nav = () => {
-//   return (
-//     <>
-//         <nav className='h-full w-[15%] bg-zinc-200 flex flex-col items-center'>
-//         <a className='py-3 px-5 my-3 border rounded border-blue-300' href="/create">Add New Products</a>
-//         <hr className='w-[80%] border-black my-3'/>
-//         <h1 className='w-[80%] text-2xl mb-3'>Category</h1>
-//        <ul className='  w-[80%]'>
-//         <li className='mb-3  flex items-center '> <span className='  rounded-full mr-2 w-[15px] h-[15px] bg-blue-300'></span> cat</li>
-//        </ul>
-//       </nav>
-      
-//     </>
-//   )
-// }
-
-// export default Nav
+// vv
